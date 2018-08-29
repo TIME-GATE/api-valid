@@ -11,4 +11,3 @@ module.exports.entity = (data, entitys) => {
 module.exports.parseUrl = (params, path) => {
   return protocol.parseUrl(params, path)
 }
-
