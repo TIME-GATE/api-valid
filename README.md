@@ -8,7 +8,7 @@ API参数验证, 验证接口收到的数据是否合法
 
 `npm test`
 
-## Examples :
+## Examples 1 :
 
 ```js
 const validator = require('validator')
@@ -140,6 +140,17 @@ try {
   validDate: 2018-08-29T04:27:58.405Z,
   nickname: 'zhang' }
 ```
+
+
+## Examples 2 :
+
+* 引入到sails中
+
+
+```
+
+```
+
 
 ## Contributors
 

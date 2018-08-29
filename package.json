@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "api-validate",
+        "raw": "api-valid",
         "scope": null,
-        "escapedName": "api-validate",
-        "name": "api-validate",
+        "escapedName": "api-valid",
+        "name": "api-valid",
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
@@ -13,10 +13,10 @@
     ],
     [
       {
-        "raw": "api-validate",
+        "raw": "api-valid",
         "scope": null,
-        "escapedName": "api-validate",
-        "name": "api-validate",
+        "escapedName": "api-valid",
+        "name": "api-valid",
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
@@ -24,14 +24,14 @@
       "/Users/dreamboad/Projects/npm"
     ]
   ],
-  "_from": "api-validate",
-  "_id": "api-validate@1.0.0",
+  "_from": "api-valid",
+  "_id": "api-valid@1.0.0",
   "_inCache": true,
-  "_location": "/api-validate",
+  "_location": "/api-valid",
   "_nodeVersion": "7.6.0",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
-    "tmp": "tmp/api-validate-0.1.1.tgz_1500442700972_0.6026145205833018"
+    "tmp": "tmp/api-valid-0.1.1.tgz_1500442700972_0.6026145205833018"
   },
   "_npmUser": {
     "name": "qianzhang",
@@ -40,10 +40,10 @@
   "_npmVersion": "4.5.0",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "api-validate",
+    "raw": "api-valid",
     "scope": null,
-    "escapedName": "api-validate",
-    "name": "api-validate",
+    "escapedName": "api-valid",
+    "name": "api-valid",
     "rawSpec": "",
     "spec": "latest",
     "type": "tag"
@@ -51,13 +51,13 @@
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/api-validate/-/api-validate-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/api-valid/-/api-valid-1.0.0.tgz",
   "_shasum": "519dd88ee2635dcd6eb8f2e425e032862f2219a2",
   "_shrinkwrap": null,
-  "_spec": "api-validate",
+  "_spec": "api-valid",
   "_where": "/Users/dreamboad/Projects/npm",
   "author": {
-    "name": "api-validate.com"
+    "name": "joseph"
   },
   "dependencies": {
     "path-to-regexp": "^2.4.0",
@@ -66,16 +66,9 @@
   "description": "Node wrapper for getui OS SDK API",
   "devDependencies": {},
   "directories": {},
-  "dist": {
-    "shasum": "0dde0c5bad53fcb2800b5b824d086f9cce5b2a91",
-    "tarball": "https://registry.npmjs.org/getui-sdk/-/getui-sdk-0.1.1.tgz"
-  },
   "keywords": [
-    "api-validate",
-    "sdk",
-    "push",
-    "os",
-    "android"
+    "api-valid",
+    "restful"
   ],
   "main": "index.js",
   "scripts": {},
