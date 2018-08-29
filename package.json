@@ -1,76 +1,29 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "api-valid",
-        "scope": null,
-        "escapedName": "api-valid",
-        "name": "api-valid",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      }
-    ],
-    [
-      {
-        "raw": "api-valid",
-        "scope": null,
-        "escapedName": "api-valid",
-        "name": "api-valid",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "/Users/dreamboad/Projects/npm"
-    ]
-  ],
-  "_from": "api-valid",
-  "_id": "api-valid@1.0.0",
-  "_inCache": true,
-  "_location": "/api-valid",
-  "_nodeVersion": "7.6.0",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
-    "tmp": "tmp/api-valid-0.1.1.tgz_1500442700972_0.6026145205833018"
-  },
-  "_npmUser": {
-    "name": "qianzhang",
-    "email": "zq_sdk@163.com"
-  },
-  "_npmVersion": "4.5.0",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "api-valid",
-    "scope": null,
-    "escapedName": "api-valid",
-    "name": "api-valid",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/api-valid/-/api-valid-1.0.0.tgz",
-  "_shasum": "519dd88ee2635dcd6eb8f2e425e032862f2219a2",
-  "_shrinkwrap": null,
-  "_spec": "api-valid",
-  "_where": "/Users/dreamboad/Projects/npm",
-  "author": {
-    "name": "joseph"
-  },
+  "name": "api-valid",
+  "version": "1.0.0",
+  "description": "api validate",
+  "main": "index.js",
   "dependencies": {
     "path-to-regexp": "^2.4.0",
     "validator": "^10.7.0"
   },
-  "description": "Node wrapper for getui OS SDK API",
   "devDependencies": {},
-  "directories": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIME-GATE/api-valid.git"
+  },
   "keywords": [
-    "api-valid",
+    "api",
+    "validate",
     "restful"
   ],
-  "main": "index.js",
-  "scripts": {},
-  "version": "0.1.8"
+  "author": "joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TIME-GATE/api-valid/issues"
+  },
+  "homepage": "https://github.com/TIME-GATE/api-valid#readme"
 }
