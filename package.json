@@ -1,15 +1,17 @@
 {
   "name": "api-valid",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "api validate",
   "main": "index.js",
   "dependencies": {
     "path-to-regexp": "^2.4.0",
     "validator": "^10.7.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "NODE_ENV=test node ./node_modules/mocha/bin/mocha --timeout 1000 --bail --recursive --exit"
   },
   "repository": {
     "type": "git",

@@ -6,7 +6,7 @@ API参数验证, 验证接口收到的数据是否合法
 
 ## Tests
 
-`npm test`
+`npm run test`
 
 ## Examples 1 :
 
