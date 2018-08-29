@@ -16,7 +16,7 @@ const validator = require('validator')
 const {
   accept,
   parseUrl
-} = require('./index')
+} = require('api-valid')
 
 
 const template = {
